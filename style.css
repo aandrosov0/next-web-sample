@@ -5,6 +5,11 @@
 	font-family: 'Kumbh Sans', sans-serif;
 }
 
+body {
+	overflow-x:hidden;
+	width:100%;
+}
+
 .navbar {
 	background: #131313;
 	height: 80px;
