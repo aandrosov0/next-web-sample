@@ -577,7 +577,7 @@
 	}
 }
 
-@media screen and (max-width:  480px) {
+@media screen and (max-width: 960px) {
 	.footer__link--wrapper {
 		display: flex;
 		flex-wrap: wrap;
